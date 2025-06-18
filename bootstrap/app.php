@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Middleware\AppViewMiddleware;
 use App\Http\Middleware\HandleAppearance;
 use App\Http\Middleware\HandleInertiaRequests;
 use App\Http\Middleware\StoreViewMiddleware;
@@ -21,11 +22,11 @@ return Application::configure(basePath: dirname(__DIR__))
             HandleAppearance::class,
             HandleInertiaRequests::class,
             AddLinkHeadersForPreloadedAssets::class,
-            StoreViewMiddleware::class,
         ]);
 
         $middleware->alias([
-            'store_view' => StoreViewMiddleware::class
+            'store_view' => StoreViewMiddleware::class,
+            'app_view' => AppViewMiddleware::class,
         ]);
     })
     ->withExceptions(function (Exceptions $exceptions) {
