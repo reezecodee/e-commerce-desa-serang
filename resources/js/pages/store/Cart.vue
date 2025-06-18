@@ -138,14 +138,8 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                         </tbody>
                     </table>
                 </div>
-                <div class="mt-5">
-                    <input type="text" class="border-0 border-bottom rounded me-5 py-3 mb-4" placeholder="Coupon Code">
-                    <button class="btn border-secondary rounded-pill px-4 py-3 text-primary" type="button">Apply
-                        Coupon</button>
-                </div>
                 <div class="row g-4 justify-content-end">
-                    <div class="col-8"></div>
-                    <div class="col-sm-8 col-md-7 col-lg-6 col-xl-4">
+                    <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                         <div class="bg-light rounded">
                             <div class="p-4">
                                 <h1 class="display-6 mb-4">Cart <span class="fw-normal">Total</span></h1>

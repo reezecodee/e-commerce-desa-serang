@@ -7,9 +7,8 @@
     <div class="container-fluid py-5">
         <div class="container py-5">
             <div class="text-center mx-auto mb-5" style="max-width: 700px;">
-                <h1 class="display-4">Bestseller Products</h1>
-                <p>Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which
-                    looks reasonable.</p>
+                <h1 class="display-4">Top Kerajinan Tangan</h1>
+                <p>Dengan mempertahan tradisi kerajinan dari teknik para leluhur turun temurun.</p>
             </div>
             <div class="row g-4">
                 <div class="col-lg-6 col-xl-4">
@@ -28,8 +27,8 @@
                                     <i class="fas fa-star"></i>
                                 </div>
                                 <h4 class="mb-3">3.12 $</h4>
-                                <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                        class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                                <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                        class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                             </div>
                         </div>
                     </div>
@@ -50,8 +49,8 @@
                                     <i class="fas fa-star"></i>
                                 </div>
                                 <h4 class="mb-3">3.12 $</h4>
-                                <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                        class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                                <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                        class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                             </div>
                         </div>
                     </div>
@@ -72,8 +71,8 @@
                                     <i class="fas fa-star"></i>
                                 </div>
                                 <h4 class="mb-3">3.12 $</h4>
-                                <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                        class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                                <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                        class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                             </div>
                         </div>
                     </div>
@@ -94,8 +93,8 @@
                                     <i class="fas fa-star"></i>
                                 </div>
                                 <h4 class="mb-3">3.12 $</h4>
-                                <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                        class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                                <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                        class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                             </div>
                         </div>
                     </div>
@@ -116,8 +115,8 @@
                                     <i class="fas fa-star"></i>
                                 </div>
                                 <h4 class="mb-3">3.12 $</h4>
-                                <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                        class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                                <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                        class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                             </div>
                         </div>
                     </div>
@@ -138,8 +137,8 @@
                                     <i class="fas fa-star"></i>
                                 </div>
                                 <h4 class="mb-3">3.12 $</h4>
-                                <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                        class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                                <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                        class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                             </div>
                         </div>
                     </div>
@@ -157,8 +156,8 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <h4 class="mb-3">3.12 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                    class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                    class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                         </div>
                     </div>
                 </div>
@@ -175,8 +174,8 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <h4 class="mb-3">3.12 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                    class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                    class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                         </div>
                     </div>
                 </div>
@@ -193,8 +192,8 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <h4 class="mb-3">3.12 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                    class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                    class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                         </div>
                     </div>
                 </div>
@@ -211,8 +210,8 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <h4 class="mb-3">3.12 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                    class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            <a href="#" class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                    class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
                         </div>
                     </div>
                 </div>
