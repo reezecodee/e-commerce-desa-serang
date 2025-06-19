@@ -13,5 +13,5 @@ defineProps<Props>();
 </script>
 
 <template>
-    <img src="/images/logo.png" :class="className" width="200" alt="" srcset="">
+    <img src="/images/logo.png" :class="className" width="150" alt="" srcset="">
 </template>
