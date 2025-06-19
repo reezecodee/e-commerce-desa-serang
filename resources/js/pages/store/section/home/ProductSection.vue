@@ -41,17 +41,20 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-5.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/cimol.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
-                                                <h4>Grapes</h4>
-                                                
+                                                <h4>Cimol Bulat Renyah</h4>
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
-                                                    <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
-                                                    <a href="#"
-                                                        class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                    <div>
+                                                        <p class="text-dark fs-5 fw-bold mb-3">Rp.3000</p>
+                                                        <a href="#"
+                                                            class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                                                class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                            Beli</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -59,17 +62,20 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-5.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/es-lilin.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
-                                                <h4>Grapes</h4>
-                                                
+                                                <h4>Es Lilin Aneka Rasa</h4>
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
-                                                    <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
-                                                    <a href="#"
-                                                        class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                    <div>
+                                                        <p class="text-dark fs-5 fw-bold mb-3">Rp. 3000</p>
+                                                        <a href="#"
+                                                            class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                                                class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                            Beli</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -77,17 +83,20 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-2.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/keripik-pisang.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
-                                                <h4>Raspberries</h4>
-                                                
+                                                <h4>Keripik Pisang</h4>
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
-                                                    <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
-                                                    <a href="#"
-                                                        class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                    <div>
+                                                        <p class="text-dark fs-5 fw-bold mb-3">Rp. 10.000</p>
+                                                        <a href="#"
+                                                            class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                                                class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                            Beli</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -95,17 +104,20 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-4.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/keripik-sale.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
-                                                <h4>Apricots</h4>
-                                                
+                                                <h4>Keripik Sale Manis</h4>
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
-                                                    <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
-                                                    <a href="#"
-                                                        class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                    <div>
+                                                        <p class="text-dark fs-5 fw-bold mb-3">Rp. 20.000</p>
+                                                        <a href="#"
+                                                            class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                                                class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                            Beli</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -113,17 +125,20 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-3.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/kripik-kentang-pedas.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
-                                                <h4>Banana</h4>
-                                                
+                                                <h4>Keripik Kentang Pedas</h4>
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
-                                                    <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
-                                                    <a href="#"
-                                                        class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                    <div>
+                                                        <p class="text-dark fs-5 fw-bold mb-3">Rp. 5000</p>
+                                                        <a href="#"
+                                                            class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                                                class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                            Beli</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -131,17 +146,20 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-1.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/martabak.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
-                                                <h4>Oranges</h4>
-                                                
+                                                <h4>Martabak Telur</h4>
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
-                                                    <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
-                                                    <a href="#"
-                                                        class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                    <div>
+                                                        <p class="text-dark fs-5 fw-bold mb-3">Rp. 12.000</p>
+                                                        <a href="#"
+                                                            class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                                                class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                            Beli</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -149,17 +167,20 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-2.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/martabak-keju.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
-                                                <h4>Raspberries</h4>
-                                                
+                                                <h4>Martabak Keju</h4>
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
-                                                    <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
-                                                    <a href="#"
-                                                        class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                    <div>
+                                                        <p class="text-dark fs-5 fw-bold mb-3">Rp. 15.000</p>
+                                                        <a href="#"
+                                                            class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                                                class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                            Beli</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -167,17 +188,20 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-5.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/medoan.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
-                                                <h4>Grapes</h4>
-                                                
+                                                <h4>Mendoan Tempe</h4>
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
-                                                    <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
-                                                    <a href="#"
-                                                        class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                    <div>
+                                                        <p class="text-dark fs-5 fw-bold mb-3">Rp. 5000</p>
+                                                        <a href="#"
+                                                            class="btn border border-primary rounded-pill px-3 text-primary"><i
+                                                                class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                            Beli</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -193,17 +217,18 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-5.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/fruite-item-5.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
                                                 <h4>Grapes</h4>
-                                                
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
                                                     <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
                                                     <a href="#"
                                                         class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                            class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                        Beli</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -211,17 +236,18 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-2.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/fruite-item-2.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
                                                 <h4>Raspberries</h4>
-                                                
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
                                                     <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
                                                     <a href="#"
                                                         class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                            class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                        Beli</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -237,17 +263,18 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-1.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/fruite-item-1.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
                                                 <h4>Oranges</h4>
-                                                
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
                                                     <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
                                                     <a href="#"
                                                         class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                            class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                        Beli</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -255,17 +282,18 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-6.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/fruite-item-6.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
                                                 <h4>Apple</h4>
-                                                
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
                                                     <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
                                                     <a href="#"
                                                         class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                            class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                        Beli</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -281,17 +309,18 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-5.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/fruite-item-5.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
                                                 <h4>Grapes</h4>
-                                                
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
                                                     <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
                                                     <a href="#"
                                                         class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                            class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                        Beli</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -299,17 +328,18 @@
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
                                             <div class="fruite-img">
-                                                <img src="/assets/img/fruite-item-4.jpg" class="img-fluid w-100 rounded-top"
-                                                    alt="">
+                                                <img src="/images/products/fruite-item-4.jpg"
+                                                    class="img-fluid w-100 rounded-top" alt="">
                                             </div>
                                             <div class="p-4 border border-primary border-top-0 rounded-bottom">
                                                 <h4>Apricots</h4>
-                                                
+
                                                 <div class="d-flex justify-content-center flex-lg-wrap">
                                                     <p class="text-dark fs-5 fw-bold mb-3">$4.99 / kg</p>
                                                     <a href="#"
                                                         class="btn border border-primary rounded-pill px-3 text-primary"><i
-                                                            class="fa fa-shopping-bag me-2 text-primary"></i> Keranjang</a>
+                                                            class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                        Beli</a>
                                                 </div>
                                             </div>
                                         </div>

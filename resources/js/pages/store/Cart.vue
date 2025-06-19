@@ -11,27 +11,28 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                     <table class="table">
                         <thead>
                             <tr>
-                                <th scope="col">Products</th>
-                                <th scope="col">Name</th>
-                                <th scope="col">Price</th>
-                                <th scope="col">Quantity</th>
+                                <th scope="col">Produk</th>
+                                <th scope="col">Nama Produk</th>
+                                <th scope="col">Harga</th>
+                                <th scope="col">Jumlah</th>
                                 <th scope="col">Total</th>
-                                <th scope="col">Handle</th>
+                                <th scope="col">Aksi</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <th scope="row">
                                     <div class="d-flex align-items-center">
-                                        <img src="/assets/img/vegetable-item-3.png" class="img-fluid me-5 rounded-circle"
-                                            style="width: 80px; height: 80px;" alt="">
+                                        <img src="/images/products/es-lilin.jpg"
+                                            class="img-fluid me-5 rounded" style="height: 80px;"
+                                            alt="">
                                     </div>
                                 </th>
                                 <td>
-                                    <p class="mb-0 mt-4">Big Banana</p>
+                                    <p class="mb-0 mt-4">Es Lilin Aneka Rasa</p>
                                 </td>
                                 <td>
-                                    <p class="mb-0 mt-4">2.99 $</p>
+                                    <p class="mb-0 mt-4">Rp. 3000</p>
                                 </td>
                                 <td>
                                     <div class="input-group quantity mt-4" style="width: 100px;">
@@ -50,27 +51,33 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                                     </div>
                                 </td>
                                 <td>
-                                    <p class="mb-0 mt-4">2.99 $</p>
+                                    <p class="mb-0 mt-4">Rp. 3000</p>
                                 </td>
                                 <td>
-                                    <button class="btn btn-md rounded-circle bg-light border mt-4">
-                                        <i class="fa fa-times text-danger"></i>
-                                    </button>
+                                    <div class="d-flex gap-3">
+                                        <button class="btn btn-md rounded-circle bg-light border mt-4">
+                                            <i class="fa fa-times text-danger"></i>
+                                        </button>
+                                        <button class="btn btn-md bg-primary border text-light mt-4">
+                                            Checkout
+                                        </button>
+                                    </div>
                                 </td>
 
                             </tr>
                             <tr>
                                 <th scope="row">
                                     <div class="d-flex align-items-center">
-                                        <img src="/assets/img/vegetable-item-5.jpg" class="img-fluid me-5 rounded-circle"
-                                            style="width: 80px; height: 80px;" alt="">
+                                         <img src="/images/products/martabak.jpg"
+                                            class="img-fluid me-5 rounded" style="height: 80px;"
+                                            alt="">
                                     </div>
                                 </th>
                                 <td>
-                                    <p class="mb-0 mt-4">Potatoes</p>
+                                    <p class="mb-0 mt-4">Martabak Telur</p>
                                 </td>
                                 <td>
-                                    <p class="mb-0 mt-4">2.99 $</p>
+                                    <p class="mb-0 mt-4">Rp. 12.000</p>
                                 </td>
                                 <td>
                                     <div class="input-group quantity mt-4" style="width: 100px;">
@@ -89,26 +96,32 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                                     </div>
                                 </td>
                                 <td>
-                                    <p class="mb-0 mt-4">2.99 $</p>
+                                    <p class="mb-0 mt-4">Rp. 12.000</p>
                                 </td>
                                 <td>
-                                    <button class="btn btn-md rounded-circle bg-light border mt-4">
-                                        <i class="fa fa-times text-danger"></i>
-                                    </button>
+                                    <div class="d-flex gap-3">
+                                        <button class="btn btn-md rounded-circle bg-light border mt-4">
+                                            <i class="fa fa-times text-danger"></i>
+                                        </button>
+                                        <button class="btn btn-md bg-primary border text-light mt-4">
+                                            Checkout
+                                        </button>
+                                    </div>
                                 </td>
                             </tr>
                             <tr>
                                 <th scope="row">
                                     <div class="d-flex align-items-center">
-                                        <img src="/assets/img/vegetable-item-2.jpg" class="img-fluid me-5 rounded-circle"
-                                            style="width: 80px; height: 80px;" alt="">
+                                         <img src="/images/products/siomay-pedas.jpg"
+                                            class="img-fluid me-5 rounded" style="height: 80px;"
+                                            alt="">
                                     </div>
                                 </th>
                                 <td>
-                                    <p class="mb-0 mt-4">Awesome Brocoli</p>
+                                    <p class="mb-0 mt-4">Siomay Pedas</p>
                                 </td>
                                 <td>
-                                    <p class="mb-0 mt-4">2.99 $</p>
+                                    <p class="mb-0 mt-4">Rp. 10.000</p>
                                 </td>
                                 <td>
                                     <div class="input-group quantity mt-4" style="width: 100px;">
@@ -127,12 +140,17 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                                     </div>
                                 </td>
                                 <td>
-                                    <p class="mb-0 mt-4">2.99 $</p>
+                                    <p class="mb-0 mt-4">Rp. 10.000</p>
                                 </td>
                                 <td>
-                                    <button class="btn btn-md rounded-circle bg-light border mt-4">
-                                        <i class="fa fa-times text-danger"></i>
-                                    </button>
+                                    <div class="d-flex gap-3">
+                                        <button class="btn btn-md rounded-circle bg-light border mt-4">
+                                            <i class="fa fa-times text-danger"></i>
+                                        </button>
+                                        <button class="btn btn-md bg-primary border text-light mt-4">
+                                            Checkout
+                                        </button>
+                                    </div>
                                 </td>
                             </tr>
                         </tbody>
@@ -142,26 +160,21 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                         <div class="bg-light rounded">
                             <div class="p-4">
-                                <h1 class="display-6 mb-4">Cart <span class="fw-normal">Total</span></h1>
+                                <h1 class="display-6 mb-4">Total Keranjang</h1>
                                 <div class="d-flex justify-content-between mb-4">
                                     <h5 class="mb-0 me-4">Subtotal:</h5>
-                                    <p class="mb-0">$96.00</p>
+                                    <p class="mb-0">Rp. 25.000</p>
                                 </div>
-                                <div class="d-flex justify-content-between">
-                                    <h5 class="mb-0 me-4">Shipping</h5>
-                                    <div class="">
-                                        <p class="mb-0">Flat rate: $3.00</p>
-                                    </div>
+                                <div class="d-flex justify-content-between mb-4">
+                                    <h5 class="mb-0 me-4">Biaya admin:</h5>
+                                    <p class="mb-0">Rp. 5.000</p>
                                 </div>
-                                <p class="mb-0 text-end">Shipping to Ukraine.</p>
                             </div>
                             <div class="py-4 mb-4 border-top border-bottom d-flex justify-content-between">
                                 <h5 class="mb-0 ps-4 me-4">Total</h5>
-                                <p class="mb-0 pe-4">$99.00</p>
+                                <p class="mb-0 pe-4">Rp. 30.000</p>
                             </div>
-                            <button
-                                class="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4"
-                                type="button">Proceed Checkout</button>
+                           
                         </div>
                     </div>
                 </div>

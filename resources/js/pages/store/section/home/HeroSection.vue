@@ -4,7 +4,7 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-md-12 col-lg-7">
-                    <h4 class="mb-3 text-light">Nikmati produk buatan UMKM desa</h4>
+                    <h4 class="mb-3 text-light" style="color: black;">Nikmati produk buatan UMKM desa</h4>
                     <h1 class="mb-5 display-3 text-light">Temukan produk menarik khas Desa Serang</h1>
                     <div class="position-relative mx-auto">
                         <input class="form-control border-2 border-light w-75 py-3 px-4 rounded-pill" type="number"

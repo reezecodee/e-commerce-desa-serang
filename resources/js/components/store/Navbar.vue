@@ -4,11 +4,11 @@
 
 <template>
     <!-- Navbar start -->
-    <div class="container-fluid fixed-top">
+    <div class="container-fluid fixed-top shadow">
         <div class="container px-0">
             <nav class="navbar navbar-light bg-white navbar-expand-xl">
                 <a href="" class="navbar-brand">
-                    <img src="/images/logo.png" width="150" alt="" srcset="">
+                    <img src="/images/logo-2.png" width="200" alt="" srcset="">
                 </a>
                 <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
