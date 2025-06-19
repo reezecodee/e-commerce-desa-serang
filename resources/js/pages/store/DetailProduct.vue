@@ -179,9 +179,8 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="d-flex justify-content-end">
-                                            <a href="#"
-                                                class="btn border border-secondary text-primary rounded-pill px-4 py-3">
-                                                Berikan Komentar</a>
+                                            <button class="btn bg-primary text-light rounded-pill px-4 py-3">Berikan
+                                                Komentar</button>
                                         </div>
                                     </div>
                                 </div>
