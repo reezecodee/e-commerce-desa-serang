@@ -1,5 +1,7 @@
 <template>
-  <div ref="pieChartRef" style="height: 400px;"></div>
+  <div class="p-5">
+    <div ref="pieChartRef" style="height: 400px;"></div>
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -28,10 +30,10 @@ onMounted(() => {
         type: 'pie',
         radius: '50%',
         data: [
-          { value: 1048, name: 'Pangan' },
+          { value: 1048, name: 'Tekstil' },
           { value: 735, name: 'Kerajinan' },
-          { value: 580, name: 'Pakaian' },
-          { value: 484, name: 'Pertanian' },
+          { value: 580, name: 'Makanan olahan' },
+          { value: 484, name: 'Sayur-sayuran' },
           { value: 300, name: 'Lainnya' }
         ],
         emphasis: {

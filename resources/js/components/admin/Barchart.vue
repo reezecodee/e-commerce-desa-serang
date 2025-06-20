@@ -1,5 +1,8 @@
 <template>
-    <div ref="chartRef" style="height: 400px;"></div>
+    <div class="p-5">
+        <h4 class="font-semibold text-xl">Grafik Penjualan 7 Hari</h4>
+        <div ref="chartRef" style="height: 400px;"></div>
+    </div>
 </template>
 
 <script setup lang="ts">
@@ -13,7 +16,7 @@ onMounted(() => {
     chart.setOption({
         tooltip: {},
         xAxis: {
-            data: ['A', 'B', 'C', 'D']
+            data: ['Martabak Telur', 'Biji Kopi', 'Kain Perca', 'Keranjang Bambu']
         },
         yAxis: {},
         series: [

@@ -1,5 +1,8 @@
 <template>
-  <div ref="lineChartRef" style="height: 400px;"></div>
+  <div class="p-5">
+    <h4 class="font-semibold text-xl">Grafik Produk Terjual</h4>
+    <div ref="lineChartRef" style="height: 400px;"></div>
+  </div>
 </template>
 
 <script setup lang="ts">

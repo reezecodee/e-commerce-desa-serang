@@ -5,7 +5,7 @@ import NavUser from '@/components/NavUser.vue';
 import { Sidebar, SidebarContent, SidebarFooter, SidebarHeader, SidebarMenu, SidebarMenuButton, SidebarMenuItem } from '@/components/ui/sidebar';
 import { type NavCategory } from '@/types';
 import { Link } from '@inertiajs/vue3';
-import { Folder, LayoutGrid, Users, Tag, PackageSearch, Flag, Star, ArrowLeftRight, Settings } from 'lucide-vue-next';
+import { Folder, LayoutGrid, Users, Tag, PackageSearch, Flag, Star, ArrowLeftRight, Settings, Store } from 'lucide-vue-next';
 import AppLogo from './AppLogo.vue';
 
 const categorizedNavItems: NavCategory[] = [
@@ -22,6 +22,11 @@ const categorizedNavItems: NavCategory[] = [
     {
         title: 'Manajemen Data',
         items: [
+            {
+                title: 'Kelola Mitra UMKM',
+                href: '/kelola-mitra-umkm',
+                icon: Store,
+            },
             {
                 title: 'Kelola Pengguna',
                 href: '/users',

@@ -112,16 +112,16 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                             <tr>
                                 <th scope="row">
                                     <div class="d-flex align-items-center">
-                                         <img src="/images/products/siomay-pedas.jpg"
+                                         <img src="/images/products/kain-perca.jpg"
                                             class="img-fluid me-5 rounded" style="height: 80px;"
                                             alt="">
                                     </div>
                                 </th>
                                 <td>
-                                    <p class="mb-0 mt-4">Siomay Pedas</p>
+                                    <p class="mb-0 mt-4">Kain Perca</p>
                                 </td>
                                 <td>
-                                    <p class="mb-0 mt-4">Rp. 10.000</p>
+                                    <p class="mb-0 mt-4">Rp. 30.000</p>
                                 </td>
                                 <td>
                                     <div class="input-group quantity mt-4" style="width: 100px;">
@@ -140,7 +140,7 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                                     </div>
                                 </td>
                                 <td>
-                                    <p class="mb-0 mt-4">Rp. 10.000</p>
+                                    <p class="mb-0 mt-4">Rp. 30.000</p>
                                 </td>
                                 <td>
                                     <div class="d-flex gap-3">
@@ -163,7 +163,7 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                                 <h1 class="display-6 mb-4">Total Keranjang</h1>
                                 <div class="d-flex justify-content-between mb-4">
                                     <h5 class="mb-0 me-4">Subtotal:</h5>
-                                    <p class="mb-0">Rp. 25.000</p>
+                                    <p class="mb-0">Rp. 45.000</p>
                                 </div>
                                 <div class="d-flex justify-content-between mb-4">
                                     <h5 class="mb-0 me-4">Biaya admin:</h5>
@@ -172,9 +172,8 @@ import AppStoreLayout from '@/layouts/AppStoreLayout.vue';
                             </div>
                             <div class="py-4 mb-4 border-top border-bottom d-flex justify-content-between">
                                 <h5 class="mb-0 ps-4 me-4">Total</h5>
-                                <p class="mb-0 pe-4">Rp. 30.000</p>
+                                <p class="mb-0 pe-4">Rp. 50.000</p>
                             </div>
-                           
                         </div>
                     </div>
                 </div>
