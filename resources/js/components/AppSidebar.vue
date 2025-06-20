@@ -3,59 +3,79 @@ import NavFooter from '@/components/NavFooter.vue';
 import NavMain from '@/components/NavMain.vue';
 import NavUser from '@/components/NavUser.vue';
 import { Sidebar, SidebarContent, SidebarFooter, SidebarHeader, SidebarMenu, SidebarMenuButton, SidebarMenuItem } from '@/components/ui/sidebar';
-import { type NavItem } from '@/types';
+import { type NavCategory } from '@/types';
 import { Link } from '@inertiajs/vue3';
-import { BookOpen, Folder, LayoutGrid, Users, Tag, PackageSearch, Flag, Star, ArrowLeftRight } from 'lucide-vue-next';
+import { Folder, LayoutGrid, Users, Tag, PackageSearch, Flag, Star, ArrowLeftRight, Settings } from 'lucide-vue-next';
 import AppLogo from './AppLogo.vue';
 
-const mainNavItems: NavItem[] = [
+const categorizedNavItems: NavCategory[] = [
     {
-        title: 'Dashboard',
-        href: '/dashboard',
-        icon: LayoutGrid,
+        title: 'General',
+        items: [
+            {
+                title: 'Dashboard',
+                href: '/dashboard',
+                icon: LayoutGrid,
+            },
+        ],
     },
     {
-        title: 'Kelola Pengguna',
-        href: '/users',
-        icon: Users,
+        title: 'Manajemen Data',
+        items: [
+            {
+                title: 'Kelola Pengguna',
+                href: '/users',
+                icon: Users,
+            },
+            {
+                title: 'Kelola Kategori',
+                href: '/categories',
+                icon: Tag,
+            },
+            {
+                title: 'Kelola Produk',
+                href: '/products',
+                icon: PackageSearch,
+            },
+        ],
     },
     {
-        title: 'Kelola Kategori',
-        href: '/categories',
-        icon: Tag,
+        title: 'Interaksi & Laporan',
+        items: [
+            {
+                title: 'Laporan Masuk',
+                href: '/helps',
+                icon: Flag,
+            },
+            {
+                title: 'Kelola Ulasan',
+                href: '/reviews',
+                icon: Star,
+            },
+        ],
     },
     {
-        title: 'Kelola Produk',
-        href: '/products',
-        icon: PackageSearch,
-    },
-    {
-        title: 'Laporan Masuk',
-        href: '/helps',
-        icon: Flag,
-    },
-    {
-        title: 'Kelola Ulasan',
-        href: '/reviews',
-        icon: Star,
-    },
-    {
-        title: 'Kelola Transaksi',
-        href: '/transactions',
-        icon: ArrowLeftRight,
+        title: 'Keuangan & Transaksi',
+        items: [
+            {
+                title: 'Kelola Transaksi',
+                href: '/transactions',
+                icon: ArrowLeftRight,
+            },
+        ],
     },
 ];
 
 const footerNavItems: NavItem[] = [
     {
-        title: 'Github Repo',
-        href: 'https://github.com/laravel/vue-starter-kit',
+        title: 'Penyimpanan Server',
+        href: '',
         icon: Folder,
     },
     {
-        title: 'Documentation',
+        title: 'Pengaturan',
         href: 'https://laravel.com/docs/starter-kits#vue',
-        icon: BookOpen,
+        icon: Settings,
     },
 ];
 </script>
@@ -75,7 +95,7 @@ const footerNavItems: NavItem[] = [
         </SidebarHeader>
 
         <SidebarContent>
-            <NavMain :items="mainNavItems" />
+            <NavMain :categorized-nav-items="categorizedNavItems" />
         </SidebarContent>
 
         <SidebarFooter>
