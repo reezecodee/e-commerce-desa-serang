@@ -23,22 +23,22 @@ const breadcrumbs: BreadcrumbItem[] = [
     <AppLayout :breadcrumbs="breadcrumbs">
         <div class="flex h-full flex-1 flex-col gap-4 rounded-xl p-4">
             <div class="grid auto-rows-min gap-4 md:grid-cols-3">
-                <CardTotal title="Total Admin" :total="10">
+                <CardTotal title="Total Admin" :total="12">
                     <Shield class="w-12 h-12 mb-3" />
                 </CardTotal>
-                <CardTotal title="Total Mitra" :total="10">
+                <CardTotal title="Total Mitra" :total="16">
                     <Store class="w-12 h-12 mb-3" />
                 </CardTotal>
-                <CardTotal title="Total Pengguna" :total="10">
+                <CardTotal title="Total Pengguna" :total="16">
                     <User class="w-12 h-12 mb-3" />
                 </CardTotal>
                 <CardTotal title="Total Laporan Masuk" :total="10">
                     <Flag class="w-12 h-12 mb-3" />
                 </CardTotal>
-                <CardTotal title="Total Produk" :total="10">
+                <CardTotal title="Total Produk" :total="30">
                     <PackageSearch class="w-12 h-12 mb-3" />
                 </CardTotal>
-                <CardTotal title="Total Kategori Produk" :total="10">
+                <CardTotal title="Total Kategori Produk" :total="3">
                     <Tag class="w-12 h-12 mb-3" />
                 </CardTotal>
             </div>

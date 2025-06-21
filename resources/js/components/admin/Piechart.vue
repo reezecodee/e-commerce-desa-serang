@@ -30,10 +30,8 @@ onMounted(() => {
         type: 'pie',
         radius: '50%',
         data: [
-          { value: 1048, name: 'Tekstil' },
           { value: 735, name: 'Kerajinan' },
           { value: 580, name: 'Makanan olahan' },
-          { value: 484, name: 'Sayur-sayuran' },
           { value: 300, name: 'Lainnya' }
         ],
         emphasis: {

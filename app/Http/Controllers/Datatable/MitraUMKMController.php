@@ -14,11 +14,16 @@ class MitraUMKMController extends Controller
     public function __invoke(Request $request)
     {
         $mitraUMKM = collect([
-            ['id' => 1, 'mitra' => 'Budi', 'toko' => 'Toko Sari', 'alamat' => 'Kp. Cibuntu, Desa Serang', 'produk' => 12],
-            ['id' => 2, 'mitra' => 'Sari', 'toko' => 'Kopi Nusantara', 'alamat' => 'Kp. Ciawi, Desa Serang', 'produk' => 8],
-            ['id' => 3, 'mitra' => 'Joko', 'toko' => 'UMKM Jaya', 'alamat' => 'Kp. Cileutik, Desa Serang', 'produk' => 5],
-            ['id' => 4, 'mitra' => 'Dewi', 'toko' => 'Craft Lokal', 'alamat' => 'Kp. Pasir, Desa Serang', 'produk' => 20],
-            ['id' => 5, 'mitra' => 'Rina', 'toko' => 'Snack Sehat', 'alamat' => 'Kp. Sukawangi, Desa Serang', 'produk' => 15],
+            ['id' => 1, 'mitra' => 'Budi', 'toko' => 'Toko Sari', 'alamat' => 'Kp. Cibuntu, Desa Serang', 'produk' => 1],
+            ['id' => 2, 'mitra' => 'Sari', 'toko' => 'Kopi Nusantara', 'alamat' => 'Kp. Ciawi, Desa Serang', 'produk' => 3],
+            ['id' => 3, 'mitra' => 'Joko', 'toko' => 'UMKM Jaya', 'alamat' => 'Kp. Cileutik, Desa Serang', 'produk' => 2],
+            ['id' => 4, 'mitra' => 'Dewi', 'toko' => 'Craft Lokal', 'alamat' => 'Kp. Pasir, Desa Serang', 'produk' => 4],
+            ['id' => 5, 'mitra' => 'Rina', 'toko' => 'Snack Sehat', 'alamat' => 'Kp. Sukawangi, Desa Serang', 'produk' => 1],
+            ['id' => 6, 'mitra' => 'Suparman', 'toko' => 'Toko Suparman', 'alamat' => 'Kp. Cibuntu, Desa Serang', 'produk' => 3],
+            ['id' => 7, 'mitra' => 'Mutia Sarni', 'toko' => 'Kain Perca Sejahtera', 'alamat' => 'Kp. Ciawi, Desa Serang', 'produk' => 1],
+            ['id' => 8, 'mitra' => 'Tono', 'toko' => 'Sejahtera Jaya', 'alamat' => 'Kp. Cileutik, Desa Serang', 'produk' => 2],
+            ['id' => 9, 'mitra' => 'Zaskia', 'toko' => 'Zaskia Kopi', 'alamat' => 'Kp. Pasir, Desa Serang', 'produk' => 3],
+            ['id' => 10, 'mitra' => 'Karina', 'toko' => 'Citra Kain', 'alamat' => 'Kp. Sukawangi, Desa Serang', 'produk' => 10],
         ]);
 
 
